@@ -1,7 +1,7 @@
 <?php
 $host = "localhost";
-$user = "root"; // Nombre de usuario para la base de datos
-$password = ""; // Contraseña para la base de datos
+$user = "root"; // Nombre de usuario de la base de datos
+$password = ""; // Contraseña de la base de datos
 $dbname = "prueba2"; // Nombre de la base de datos
 
 // Crea la conexión a la base de datos
